@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "dot_gitconfig": "ini",
+        "dot_npmrc": "ini",
+        "dot_*rc": "shellscript",
+        "dot_*profile*": "shellscript",
+        "*.tmpl": "toml"
+    }
+}

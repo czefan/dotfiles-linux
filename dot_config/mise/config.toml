@@ -1,0 +1,17 @@
+[tools]
+go = "latest"
+node = "lts"
+pnpm = "latest"
+uv = "latest"
+
+# 现代 CLI 工具链（统一版本控制）
+starship = "latest"
+zoxide = "latest"
+fzf = "latest"
+ripgrep = "latest"
+fd = "latest"
+bat = "latest"
+eza = "latest"
+delta = "latest"
+btop = "latest"
+jq = "latest"
